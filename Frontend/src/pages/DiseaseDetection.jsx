@@ -25,7 +25,7 @@ export default function DiseaseDetection() {
 
     try {
       const res = await axios.post(
-        "https://jardentefera-corndiseasedetector.hf.space/predict",
+        "https://yordanostefera-corndiseasedetector.hf.space/predict",
         formData
       );
       setResult(res.data);
