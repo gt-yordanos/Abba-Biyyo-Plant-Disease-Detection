@@ -20,7 +20,7 @@ app.add_middleware(
 )
 
 # Load model once
-model = load_model("CornDisease.keras")
+model = load_model("cornDisease.keras")
 
 # Class names in training order
 class_names = ['Corn___Common_Rust', 'Corn___Gray_Leaf_Spot', 'Corn___Healthy', 'Corn___Leaf_Blight']
