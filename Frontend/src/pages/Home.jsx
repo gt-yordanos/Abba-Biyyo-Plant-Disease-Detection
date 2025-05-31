@@ -62,7 +62,7 @@ export default function Home() {
           <div className="flex justify-center md:justify-start">
             <Link
               to="/detector"
-              className="bg-transparent border-emerald-400 border-2 text-emerald-600 dark:text-emerald-300 px-6 py-3 rounded-full font-medium hover:bg-emerald-500 hover:text-white transition cursor-pointer"
+              className={`bg-transparent border-teal-400 border-2 ${dark?'text-white': 'text-black'} px-6 py-3 rounded-full font-medium hover:bg-teal-500 hover:text-white transition cursor-pointer `}
             >
               Try our AI Disease Detector
             </Link>
