@@ -156,6 +156,4 @@ Abba-Biyyo/
 
 **Abba Biyyo - Agricultural Assistant**  
 Final Year Project — Computer Science  
-Haramaya University  
-Course: CoSc4083 Mobile Application Development  
-Instructor: Keno Benti
+Haramaya University
